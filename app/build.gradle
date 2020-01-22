@@ -20,10 +20,11 @@ android {
             applicationIdSuffix ".debug"
             debuggable true
         }
+        /*
         debugAndroidTest {
             applicationIdSuffix ".debugAndroidTest"
             debuggable true
-        }
+        }*/
         releaseAndroidTest {
             applicationIdSuffix ".debug"
             debuggable true
